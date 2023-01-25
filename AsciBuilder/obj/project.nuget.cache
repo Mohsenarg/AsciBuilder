@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mP/b6NWSbUacleMMvhIZ3neMwdfBmAD3CQwRZenaV/1Xz2V6ytK5WNEzFmGiSeYplleV+8MFP6oyISLop28Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MohsenArg\\source\\repos\\AsciBuilder\\AsciBuilder\\AsciBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MohsenArg\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

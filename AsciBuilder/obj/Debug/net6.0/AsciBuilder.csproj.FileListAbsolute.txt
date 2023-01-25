@@ -1,0 +1,17 @@
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\AsciBuilder.exe
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\AsciBuilder.deps.json
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\AsciBuilder.runtimeconfig.json
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\AsciBuilder.dll
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\ref\AsciBuilder.dll
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\AsciBuilder.pdb
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\bin\Debug\net6.0\Figgle.dll
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.csproj.AssemblyReference.cache
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.AssemblyInfoInputs.cache
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.AssemblyInfo.cs
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.csproj.CoreCompileInputs.cache
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.csproj.CopyComplete
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.dll
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\ref\AsciBuilder.dll
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.pdb
+C:\Users\MohsenArg\source\repos\AsciBuilder\AsciBuilder\obj\Debug\net6.0\AsciBuilder.genruntimeconfig.cache
